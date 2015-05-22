@@ -17,9 +17,7 @@ Fumihiko Akagi
     本プログラムを使用したことによって起きた問題などに関しては
     製作者は責任を持たず、使用者の自己責任とさせていただきます。
     パスワードクラックやDoS攻撃に応用するなどの悪用を固く禁じます。
-
 * * *
-
     The MIT License
 
     Copyright (c) 2013 Fumihiko Akagi
