@@ -1,5 +1,5 @@
 # STAP
-python2.7
+python 2.7
 
 Caesar暗号を生成/解読するスクリプト
 
