@@ -3,9 +3,9 @@ python2.7
 
 Caesar暗号を生成/解読するスクリプト
 
-<img src="./Raw/images/stap01.gif" alt="stap01">
+<img src="./Raw/images/stap01.gif" width="300" alt="stap01">
 
-<img src="./Raw/images/stap02.gif" alt="stap02">
+<img src="./Raw/images/stap02.gif" width="300" alt="stap02">
 
 #Details
 
