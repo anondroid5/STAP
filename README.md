@@ -3,7 +3,7 @@ python2.7
 
 Caesar暗号を生成/解読するスクリプト
 
-<img src="./Raw/images/stap01.gif" alt="stap01">
+<img src="./Raw/images/stap.gif" alt="stap">
 
 #Details
 
