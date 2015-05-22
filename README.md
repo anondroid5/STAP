@@ -7,7 +7,7 @@ Caesar暗号を生成/解読するスクリプト
 
 alphabet.py - Caesar暗号を生成/解読するスクリプトをアルファベットリストに変更(高速化)
 
-stap.py - STAPという文字列を探索するスクリプト(悪用厳禁)
+stap.py - STAPという文字列を高速に探索するスクリプト(悪用厳禁)
 
 #Author
 Fumihiko Akagi
