@@ -13,7 +13,7 @@ alphabet.py - Caesar暗号を生成/解読するスクリプトをアルファ�
 stap.py - STAPという文字列を高速に探索するスクリプト(悪用厳禁)
 
 #Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 #Copyright
 ###!!使用する際はライセンスを読んで使用してください!!
@@ -23,7 +23,7 @@ Fumihiko Akagi
 * * *
     The MIT License
 
-    Copyright (c) 2013 Fumihiko Akagi
+    Copyright (c) 2013 Fumihiko Akaki
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this
     software and associateddocumentation files (the "Software"), to deal in the Software
